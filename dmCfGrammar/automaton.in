@@ -1,0 +1,13 @@
+8 S
+S -> aA
+A -> bC
+S -> a
+S -> b
+S -> bB
+B -> aB
+B -> b
+C -> aB
+3
+abab
+baba
+babb
